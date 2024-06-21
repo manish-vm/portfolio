@@ -50,6 +50,7 @@ body {
     color: white;
     border-radius: 20px;
     display: block;
+    color: white;
 }
 iframe {
     width: 100%;
@@ -68,9 +69,7 @@ iframe {
     border-radius: 20px;
 }
 .contact {
-    color: white;
-    width: 400px;
-    border-radius: 30px;
+    
 }
 a {
     text-decoration: none;
