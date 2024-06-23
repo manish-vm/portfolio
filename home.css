@@ -168,7 +168,6 @@ a:hover{
 }
 .certificates {
     display: inline-block;
-    padding-left: 20px;
 }
 .container, .left, .right, .center, .certificates, .services, .service1, .contact, .copyright{
     opacity: 0;
